@@ -4,7 +4,7 @@
 ## [Video Link](https://streamable.com/yoa652)
 
 ## Description 
-This project helps build clean, consistent, and professional looking README files which can be customized based on the users preferences for their particular App.
+This project helps build clean, consistent, and simple looking SVG logo which can be customized based on the users preferences for their particular App.
 
 ## Table of Contents
 - [Installation](#installation)
