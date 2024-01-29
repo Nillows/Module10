@@ -1,7 +1,7 @@
 
 # SVG Logo Generator
 
-## [Video Link](https://streamable.com/yoa652)
+## [Video Link](https://streamable.com/byuen1)
 
 ## Description 
 This project helps build clean, consistent, and simple looking SVG logo which can be customized based on the users preferences for their particular App.
@@ -38,7 +38,7 @@ This project is covered under the MIT license.
 Paypal
 
 ## Tests
-jest
+npx jest
 
 ## Questions
 Find me on GitHub: [Nillows](https://github.com/Nillows)
