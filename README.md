@@ -17,7 +17,7 @@ This project helps build clean, consistent, and simple looking SVG logo which ca
 - [Questions](#questions)
 
 ## Installation
-1. Run `NPM Init` to install the dependent node packages.
+1. Run `npm i` to install the dependent node packages.
 2. Launch the App by running 'node index.js' in your Terminal.
 
 ## Usage 
@@ -38,7 +38,7 @@ This project is covered under the MIT license.
 Paypal
 
 ## Tests
-npx jest
+run npx jest from project root folder
 
 ## Questions
 Find me on GitHub: [Nillows](https://github.com/Nillows)
