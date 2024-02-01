@@ -38,7 +38,7 @@ This project is covered under the MIT license.
 Paypal
 
 ## Tests
-run npx jest from project root folder
+Run `npx jest` from the project root folder.
 
 ## Questions
 Find me on GitHub: [Nillows](https://github.com/Nillows)
